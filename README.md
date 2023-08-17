@@ -1,16 +1,6 @@
-# voice_assistant_app
+voice Assistant App
 
-A new Flutter project.
 
-## Getting Started
+This is a Flutter app that showcases the creation of a Personal Virtual Voice Assistant using ChatGPT and Dall-E API. It is capable of executing tasks through voice commands. By integrating ChatGPT and Dall-E, cutting-edge natural language processing and AI image generation tools, REST API is implemented along with a stunning UI in the Flutter app. The result is a powerful virtual assistant that comprehends voice commands and generates images seamlessly, offering a holistic understanding of REST API implementation and UI design within the Flutter framework.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is how the app looks :
